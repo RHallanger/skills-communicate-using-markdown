@@ -10,3 +10,7 @@
 ``` python
 myVar = "Hello, world!";
 ```
+
+- [x] I am complete
+- [ ] I am incomplete
+- [ ] I just like to watch...
